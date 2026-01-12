@@ -1,5 +1,3 @@
-This is a comprehensive README section based on your midterm project. It is structured to be professional and clear, making it perfect for a GitHub repository or a final submission portfolio.
-
 US Voter Registration Trends: 2016 vs. 2020
 Project Overview
 This project analyzes trends in new voter registration across the United States, comparing patterns leading up to the 2016 and 2020 presidential elections. By examining registration data at both the national and state levels, this analysis provides insights into voter engagement and the potential impact of external factors, such as the COVID-19 pandemic, on the registration process.
